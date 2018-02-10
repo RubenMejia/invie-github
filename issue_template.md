@@ -1,5 +1,3 @@
-//Para alguien que habra el archivo issue 
-
 ¿Como puedo replicar el problema?
 Por favor explicanos de como replicar el problema paso a paso y en que SO ocurre
 
